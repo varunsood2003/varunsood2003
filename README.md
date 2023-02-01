@@ -1,6 +1,7 @@
 <h1  align="center">Hi 👋, I'm Varun Sood</h1>
-<h3 align="left">I am a 2nd year Computer Science Engineering student at VIT Vellore. 
-I’m looking for a role that will allow me to learn from the ground up and build a career in the software industry also looking for new challenges that can help me broaden my experience.</h3>
+<h3 align="left">I turn complex problems into elegant solutions with a dash of caffeine and a sprinkle of creativity. 
+As an aspiring software engineer with a passion for developing innovative and user-friendly solutions, I am currently pursuing a Bachelor's degree in Computer Science from Vellore Institute of Technology, Vellore. Through my studies, I have gained experience in various programming languages and software development methodologies. I am eager to continue learning and growing as a software engineer and am open to opportunities that will allow me to do so. 
+Feel free to connect with me on LinkedIn and learn more about my experience and interests. I am always open to networking and learning from others in the industry.</h3>
 
 <p><img align="center" alt="coding height="100" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"></p>
 
