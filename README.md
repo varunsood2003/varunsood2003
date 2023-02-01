@@ -1,5 +1,5 @@
 <h1  align="center">Hi 👋, I'm Varun Sood</h1>
-<h3 align="left">I turn complex problems into elegant solutions with a dash of caffeine and a sprinkle of creativity. 
+<h3 align="left">I turn complex problems into elegant solutions with a dash of caffeine and a sprinkle of creativity.<br>
 As an aspiring software engineer with a passion for developing innovative and user-friendly solutions, I am currently pursuing a Bachelor's degree in Computer Science from Vellore Institute of Technology, Vellore. Through my studies, I have gained experience in various programming languages and software development methodologies. I am eager to continue learning and growing as a software engineer and am open to opportunities that will allow me to do so. 
 Feel free to connect with me on LinkedIn and learn more about my experience and interests. I am always open to networking and learning from others in the industry.</h3>
 
